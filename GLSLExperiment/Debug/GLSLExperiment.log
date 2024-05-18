@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GLSLExperiment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GLSLExperiment.vcxproj -> C:\Users\khaip\Documents\Ki-2-Nam-4\DHMT\BaiTHso6_1_project_Projection\Debug\GLSLExperiment_Projection.exe
